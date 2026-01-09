@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/jolit/Documents/GitHub/untourney/Content/BP_Player.uasset",
+				"C:/Users/jolit/Documents/GitHub/untourney/Content/BP_GM_CTF.uasset",
+				"C:/Users/jolit/Documents/GitHub/untourney/Content/BP_PC_CTF.uasset",
+				"C:/Users/jolit/Documents/GitHub/untourney/Content/Blueprints/BP_GM_CTF.uasset",
+				"C:/Users/jolit/Documents/GitHub/untourney/Content/Blueprints/BP_PC_CTF.uasset",
+				"C:/Users/jolit/Documents/GitHub/untourney/Content/Blueprints/BP_Player.uasset",
+				"C:/Users/jolit/Documents/GitHub/untourney/Content/bviewmodelarms.uasset",
+				"C:/Users/jolit/Documents/GitHub/untourney/Content/bviewmodelarms_Skeleton.uasset",
+				"C:/Users/jolit/Documents/GitHub/untourney/Content/Test.umap"
+			]
+		}
+	]
+}
